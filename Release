@@ -1,0 +1,8 @@
+Origin: UNDERFORUMS Repo
+Label: UNDERFORUMS Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: The official Cydia repo for UNDERFORUMS.

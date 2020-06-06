@@ -1,0 +1,48 @@
+Package: com.underforums.batteryapex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sebastian Alsina
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.underforums.batteryapex_1.0_iphoneos-arm.deb
+Size: 141440
+MD5sum: f30e9c2f55a3a791b4b37f284ab6cb2b
+SHA1: d1c29b66fdae11ce0f000073a6db4e91254e1156
+SHA256: 9763584f8e1efa59969d684a36eb834eb5ed49fdf74c666d2f4e0a62954c6b45
+Section: Widgets
+Description: Battery Apex is a powerful battery widget with helpful battery life and health information. Read more and view previews of Battery Apex here! https://cydia.now.sh/tweak/batteryapex
+Author: Sebastian Alsina
+Icon: https://cydia.now.sh/img/batteryapex/icon.png
+Name: Battery Apex
+
+Package: com.underforums.lockpowers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sebastian Alsina
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.underforums.lockpowers_1.0_iphoneos-arm.deb
+Size: 245504
+MD5sum: bba52d98278ae7756ea6e4d78c4055fa
+SHA1: 6d2bf6a73ba954046c53105689ebfb024f636ede
+SHA256: 961a681800c127306553838fd0ff129001f25e59c2b4bf46b10b8e10a54593ba
+Section: Widgets
+Description: Lock Powers adds quick power actions to a beautiful widget that fits perfectly on your lock-screen. Read more and view previews of Lock Powers here! https://cydia.now.sh/tweak/lockpowers
+Author: Sebastian Alsina
+Icon: https://cydia.now.sh/img/lockpowers/icon.png
+Name: Lock Powers
+
+Package: com.underforums.procezzor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sebastian Alsina
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.underforums.procezzor_1.0_iphoneos-arm.deb
+Size: 468504
+MD5sum: f5dc4492f44f7ea2c5a81b7721592cfd
+SHA1: 9d83c6b94b00dca87d2decc46fb5f2f7d3d18d86
+SHA256: 7ff945dcf88630d9e77e9c88d1ed5c7373f3ae57ae3cfac85977289d5ec7cee1
+Section: Widgets
+Description: Procezzor tracks your CPU on a chart in a beautiful way. Read more and view previews of Procezzor here! https://cydia.now.sh/tweak/procezzor
+Author: Sebastian Alsina
+Icon: https://cydia.now.sh/img/procezzor/icon.png
+Name: Procezzor
+
