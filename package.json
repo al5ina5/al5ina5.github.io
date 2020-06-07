@@ -1,11 +1,14 @@
 {
-  "name": "Repo",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/al5ina5/al5ina5.github.io.git",
-  "author": "Sebastian Alsina <alsinas@me.com>",
-  "license": "MIT",
-  "scripts": {
-    "deploy": "git add . && git commit -am \"Auto Deploy\" && git push"
-  }
+	"name": "Repo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/al5ina5/al5ina5.github.io.git",
+	"author": "Sebastian Alsina <alsinas@me.com>",
+	"license": "MIT",
+	"scripts": {
+		"deploy": "git add . && git commit -am \"Auto Deploy\" && git push",
+		"create-deb": "./scripts/CreateDeb.sh",
+		"update-packages": "./scripts/UpdatePackages.sh",
+		"update-repo": "./scripts/UpdateRepo.sh"
+	}
 }
