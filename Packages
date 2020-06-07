@@ -15,6 +15,22 @@ Author: Sebastian Alsina
 Icon: https://al5ina5.com/img/batteryapex/icon.png
 Name: Battery Apex
 
+Package: com.underforums.bellaheart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sebastian Alsina
+Depends: com.matchstic.xenhtml
+Filename: debs/com.underforums.bellaheart_1.0_iphoneos-arm.deb
+Size: 282852
+MD5sum: 6b49de9a77718094c6054a463a6e1240
+SHA1: 037f0705338576b20bdbb22b2fdef6818012a312
+SHA256: 9834627562705d7f44050db820cef4ffc7334b1c1c239dabfbb7eac507ff2ee0
+Section: Widgets
+Description: Bella Hearts add pretty little floating hearts to you home + lock screens. Read more and view previews of Bella Hearts here! https://al5ina5.com/tweak/bellahearts
+Author: Sebastian Alsina
+Icon: https://al5ina5.com/img/bellahearts/icon.png
+Name: Bella Hearts
+
 Package: com.underforums.capsule
 Version: 1.0
 Architecture: iphoneos-arm
