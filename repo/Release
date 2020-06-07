@@ -1,8 +1,8 @@
-Origin: UNDERFORUMS Repo
-Label: UNDERFORUMS Repo
+Origin: Sebastian's Repo
+Label: Sebastian's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: The official Cydia repo for UNDERFORUMS.
+Description: The only place you can find Sebastian's tweaks and widgets.
