@@ -4,11 +4,12 @@ Architecture: iphoneos-arm
 Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.batteryapex_1.0_iphoneos-arm.deb
-Size: 141440
-MD5sum: 3f1bd7ff5e00bb73c9e788b2c158f220
-SHA1: 53c62aad212b77889f8b39cd38382cbcb4b30f73
-SHA256: 1c65167774b058ed0a9fe568076594e3ad1ed6318c2960941c7bfb3db3b008b8
+Size: 141448
+MD5sum: f1b34d34d61713ca56d8bc395f364c7b
+SHA1: 716031d5bc3113b479b45dc51ef71673aac9e142
+SHA256: 720505cc7ee2d97a46e13611b8eff993e4addd338d894c62b3cfa9a2e8f371f0
 Section: Widgets
+Homepage: https://al5ina5.com/tweak/batteryapex
 Description: Battery Apex is a powerful battery widget with helpful battery life and health information. Read more and view previews of Battery Apex here! https://al5ina5.com/tweak/batteryapex
 Author: Sebastian Alsina
 Icon: https://al5ina5.com/img/batteryapex/icon.png
@@ -68,11 +69,12 @@ Architecture: iphoneos-arm
 Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.capsule_1.4_iphoneos-arm.deb
-Size: 265412
-MD5sum: b866cbed85413d7562f34b31bb10157e
-SHA1: dc057700c0dac3e00c4aceabd274bd7d64cc8b73
-SHA256: 70bfeeffe202d4048421ccbb0c955228aac7241b09f943662bc4f0507feaede7
+Size: 265420
+MD5sum: ccc1da36c9062cf469577b687ece60ef
+SHA1: fbf436f5a230144c73ea08a1599ede64eb78fb12
+SHA256: 934ecbb27dc6b87754c43ac7d64216cc672811721215adafcc3bd876639e437a
 Section: Widgets
+Homepage: https://al5ina5.com/tweak/capsule
 Description: Capsule is a beautiful drawer for your apps to make your home-screen as minimal as possible. https://al5ina5.com/tweak/capsule
 Author: Sebastian Alsina
 Icon: https://al5ina5.com/img/capsule/icon.png
@@ -84,11 +86,12 @@ Architecture: iphoneos-arm
 Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.lockpowers_1.0_iphoneos-arm.deb
-Size: 245504
-MD5sum: f47dda8fc56fe81f2be031b53a8e2218
-SHA1: c2e47ef97ac4b00b6dabc73e4dd9e51d610e0b1a
-SHA256: 678f90c594e475c59de685fee4852184b8232e9e2967f9753a328351c331e596
+Size: 245512
+MD5sum: 52e196d59f44a34a30ee654c7d1c775e
+SHA1: 8acfa154e5e53e09c4349fb30204b7e2968b2e4f
+SHA256: 13dcaac7ea7caae220ff9a30787dc9687f0fbd5155502eac72baddb4c91c0e30
 Section: Widgets
+Homepage: https://al5ina5.com/tweak/lockpowers
 Description: Lock Powers adds quick power actions to a beautiful widget that fits perfectly on your lock-screen. Read more and view previews of Lock Powers here! https://al5ina5.com/tweak/lockpowers
 Author: Sebastian Alsina
 Icon: https://al5ina5.com/img/lockpowers/icon.png
@@ -100,11 +103,12 @@ Architecture: iphoneos-arm
 Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.procezzor_1.0_iphoneos-arm.deb
-Size: 468508
-MD5sum: 4ff1cab5944e32d48e4543d1b529effa
-SHA1: bbc9527874245ad52768995cfa6ff347104923c1
-SHA256: 6d37f9157cae4f1c9557cb99160797d73685bad0ff6016bb79a42c340950e558
+Size: 468516
+MD5sum: e5f1c3e7c083d6e902789fbd02318c88
+SHA1: 27274309d4b3c177a81087cf7704803ee5e67194
+SHA256: 95b01ce0d5e997ec79686c3804fa8a19434acae1b4c16293752a0cb48b6b91d4
 Section: Widgets
+Homepage: https://al5ina5.com/tweak/procezzor
 Description: Procezzor tracks your CPU on a chart in a beautiful way. Read more and view previews of Procezzor here! https://al5ina5.com/tweak/procezzor
 Author: Sebastian Alsina
 Icon: https://al5ina5.com/img/procezzor/icon.png
