@@ -113,6 +113,23 @@ Author: Sebastian Alsina
 Icon: https://al5ina5.com/img/capsule/icon.png
 Name: Capsule
 
+Package: com.underforums.capsule
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Sebastian Alsina
+Depends: com.matchstic.xenhtml
+Filename: debs/com.underforums.capsule_1.4.1_iphoneos-arm.deb
+Size: 266088
+MD5sum: 8acc114a7f07ac2029bd624a49028568
+SHA1: ae411da319ee7a541465c290a6c513c8234c4460
+SHA256: ac90eeb87a23dfdba7d4708f04a6147942c944b82e93c5a26c421b599f270582
+Section: Widgets
+Homepage: https://al5ina5.com/tweak/capsule
+Description: Capsule is a beautiful drawer for your apps to make your home-screen as minimal as possible. Information, help, and previews of Capsule available on: https://al5ina5.com/tweak/capsule
+Author: Sebastian Alsina
+Icon: https://al5ina5.com/img/capsule/icon.png
+Name: Capsule
+
 Package: com.underforums.lockpowers
 Version: 1.0
 Architecture: iphoneos-arm
