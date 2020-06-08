@@ -170,12 +170,12 @@ Architecture: iphoneos-arm
 Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.stockticker_1.0_iphoneos-arm.deb
-Size: 143896
-MD5sum: 1f170c9ef31e2521a28db38e0e86502a
-SHA1: 3e2d60ed8b68b823ec1f05ee9e13189a04929b70
-SHA256: 2466e73dd8c9b12e62a2f6ed66fe39bbcda93f564ab9ccf68550083534e683a5
+Size: 144112
+MD5sum: 9628627630e61817bb71e4ba1c9a6a92
+SHA1: 97ad4829c9765c1aedec64a6d6c26183e369a326
+SHA256: 0260739e759229b10a4ee587c4ebb8b3e1cd4216adbea0cb3d433edca145b77f
 Section: Widgets
-Description: Stock Ticker adds quick power actions to a beautiful widget that fits perfectly on your lock-screen. Read more and view previews of Stock Ticker here! https://al5ina5.com/tweak/stockticker
+Description: Track your stocks on your home-screen. Small and discreet. Information, help, and previews of Capsule available on: https://al5ina5.com/tweak/stockticker
 Author: Sebastian Alsina
 Icon: https://al5ina5.com/img/stockticker/icon.png
 Name: Stock Ticker
