@@ -204,3 +204,20 @@ Depiction: https://al5ina5.com/tweak/stockticker
 Icon: https://al5ina5.com/img/stockticker/icon.png
 Name: Stock Ticker
 
+Package: com.underforums.stockticker
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Sebastian Alsina
+Depends: com.matchstic.xenhtml
+Filename: debs/com.underforums.stockticker_1.0.1_iphoneos-arm.deb
+Size: 144424
+MD5sum: e8a82f273b6d5198e9a0d1e2da182c50
+SHA1: 239f520f502bf165308017913148985b8410692f
+SHA256: 93740bff7b2d5ead57f3b3a68ff5da014e37795e410518aec8e0c1fa727e18ab
+Section: Widgets
+Description: Track your stocks on your home-screen. Small and discreet. Information, help, and previews of Stock Ticker available on: https://al5ina5.com/tweak/stockticker
+Author: Sebastian Alsina
+Depiction: https://al5ina5.com/tweak/stockticker
+Icon: https://al5ina5.com/img/stockticker/icon.png
+Name: Stock Ticker
+
