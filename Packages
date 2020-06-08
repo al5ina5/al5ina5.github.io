@@ -5,9 +5,9 @@ Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.batteryapex_1.0_iphoneos-arm.deb
 Size: 141464
-MD5sum: 37c2f0d53ac16f3ef842c98c52cbd5d4
-SHA1: 1b07156821a89566bd5d61e664878ed6a47f5125
-SHA256: ad0f7eda343922ba4e38f8cbe8d3f585a1d47e98172e2805a5231a232a93bc3d
+MD5sum: 26a4eb939ac6b191686f4d67759e72cf
+SHA1: 7b056e3337131224f1a6376f53e1775ab2392225
+SHA256: 9e1441a49978e613eede7d21da8ad82d83d244a4f6acf8acb867a3936aaa0699
 Section: Widgets
 Homepage: https://al5ina5.com/tweak/batteryapex
 Description: Battery Apex is a powerful battery widget with helpful battery life and health information. Information, help, and previews of Lock Powers available on: https://al5ina5.com/tweak/batteryapex
@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.bellaheart_1.0.1_iphoneos-arm.deb
-Size: 282852
-MD5sum: 60d472cc4f166af6ed0907f266f55900
-SHA1: 2a66d0ab3119e3f2c53b6ee75e97d3e9da7c83b2
-SHA256: eac0b3bca29e729a82be983de4faeff74c5fee81ea7f5b5337d58c7cbfa00d18
+Size: 282732
+MD5sum: ca161542af400363e947217d307ffe93
+SHA1: 9f33d65c46bb8f35cb92c4e24b99cb84d81ea62c
+SHA256: 06ca5713c533ff73b4159fca148a46fe1e17df02db59f867d93df93e0895538b
 Section: Widgets
 Homepage: https://al5ina5.com/tweak/bellahearts
 Description: Bella Hearts add pretty little floating hearts to you home + lock screens. Information, help, and previews of Bella Hearts available on: https://al5ina5.com/tweak/bellahearts
@@ -140,9 +140,9 @@ Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.capsule_1.4.2_iphoneos-arm.deb
 Size: 266104
-MD5sum: 6918fe67a907b3a39913e5ef606a9a30
-SHA1: b1ae4533628c66644bb048f2550fb9cf6c39312d
-SHA256: cf3c53f9651e8ed3bff77d5ab23b74e7c62c58338e6ee5628c5afb30e84e5f65
+MD5sum: 542d41d6b4916592275affad7ed03a83
+SHA1: 3de406d6b7ccadc441141bd09ac44bdd33e62719
+SHA256: f1e01a9f2c1a547ce3ed940e837f5619b440609d3f861de41d5165fda61e6054
 Section: Widgets
 Homepage: https://al5ina5.com/tweak/capsule
 Description: Capsule is a beautiful drawer for your apps to make your home-screen as minimal as possible. Information, help, and previews of Capsule available on: https://al5ina5.com/tweak/capsule
@@ -158,9 +158,9 @@ Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.lockpowers_1.0_iphoneos-arm.deb
 Size: 245524
-MD5sum: aebff77de753c786083b4a7e22474afa
-SHA1: 2c98b40eb71d87eaa4920e9b74bf85d0694a557e
-SHA256: d4d3c3f09105ae9356faeb498d7af257ea28ff7a2a5254a110752e96f903414c
+MD5sum: a2a3f9f7fa967dba4ee269f2a5c0a11b
+SHA1: b63af9e89e3ddd1e0ec3cf84edb15d6d7868f92e
+SHA256: d73d226e47cd9ac4da1e21faabe7a9e0d7b29c8ac4c5f994c8ac2fd6f63f577f
 Section: Widgets
 Homepage: https://al5ina5.com/tweak/lockpowers
 Description: Lock Powers adds quick power actions to a beautiful widget that fits perfectly on your lock-screen. Information, help, and previews of Lock Powers available on: https://al5ina5.com/tweak/lockpowers
@@ -176,9 +176,9 @@ Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.procezzor_1.0_iphoneos-arm.deb
 Size: 468536
-MD5sum: c4ca3371b16a1d75d17502d18e5a233b
-SHA1: 08dce489990bbea5c44861594f47cfa1e05d93e6
-SHA256: 87d9457cc44d4a57caf9d117b334ce1ea158778590a5214b3430c4d7197bd91a
+MD5sum: 1a8e9c67cdaff351fdfef223519395e1
+SHA1: e535cd2dc82de39465b7ecf59feaf1001ffb4bef
+SHA256: aeea583ac919f3cf2fa7227f95aa8244879b26a8b92a96dbb2200cfe6bb12a7e
 Section: Widgets
 Homepage: https://al5ina5.com/tweak/procezzor
 Description: Procezzor tracks your CPU on a chart in a beautiful way. Information, help, and previews of Lock Powers available on: https://al5ina5.com/tweak/procezzor
@@ -194,9 +194,9 @@ Maintainer: Sebastian Alsina
 Depends: com.matchstic.xenhtml
 Filename: debs/com.underforums.stockticker_1.0_iphoneos-arm.deb
 Size: 144084
-MD5sum: d86487e395d89c8b98090d22e91e9e58
-SHA1: c4528ad351567550f4562b9b0a94b4993f226b71
-SHA256: 14e026bad4d5bf77cb40870d996439217fb22e9693a2cfbf628218259913fc2a
+MD5sum: cf696d59a01172c51d4571b6fbc3d98f
+SHA1: 7ad5a917a6514e30cc9a3c32c2dc69073bb55ea6
+SHA256: 8b35970031fd57ba2d7d51d9f94822dce52412f463d9d18442121de6df2a2b83
 Section: Widgets
 Description: Track your stocks on your home-screen. Small and discreet. Information, help, and previews of Stock Ticker available on: https://al5ina5.com/tweak/stockticker
 Author: Sebastian Alsina
